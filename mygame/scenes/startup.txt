@@ -1,0 +1,931 @@
+*title Energy Security Simulation Game
+*author Hannah Stewart and Manjulika Das
+
+This game puts you in the driver's seat of national policy formulation during an oil crisis.
+Here, you will have the chance to test out different possible political choices and their consequences. 
+The goal of the game is to explore the myriad ways which energy relates to every other part of society. 
+There are more than 50 different possible storylines which you can follow. 
+We encourage you to try as many as possible in order to get a sense of how energy connects to everything else.
+
+
+In the situation, you are the democratically-elected leader of the executive branch of the national government of your country. 
+You have the heads of multiple agencies to advise you, and a Congress to help (or hinder) any attempts to pass legislation. 
+The urban centers of your country are heavily developed, but the vast majority of your land are undeveloped agricultural farms.
+Your largest exports are natural gas and rice.
+Currently, your nation is heavily reliant upon fossil fuels, mostly oil imports, for all sectors of your economy.
+
+
+*page_break
+
+In another part of the world, a civil war erupts in the largest oil-producing nations. As a result, the price per barrel of oil jumps from $52 per barrel to $200.
+What will you do?
+
+*choice
+  #Changing the entire system would be massively expensive and politically unpopular. For now, buy the oil.
+     Investing in fossil fuels has made the industries of your country very happy, but the agricultural areas are driven into poverty by the high oil prices. 
+     This industry needs low oil prices for the production of fertilizers, for their agricultural equipment, such as tractors, and for transporting their goods to markets.
+     As costs increase, small farm owners consider selling their land to larger corporations. You know that a corporate monopoly could have damaging effects for consumers and the open market economy, in addition to an increase in the national unemployment rate.
+     You want to help the small farmers, and you have a couple different ways to do it.
+    *choice
+      #Create a federal interest payment support program to help the small landowners get back on their feet. This program would help farmers pay their loans to the bank, thereby avoiding either foreclosure or the need to sell their land to a larger company.
+         In order to compete with the larger corporations, the small farmers will also need to start using oil-based pesticides and nitrogenous and phosporic fertilizers.
+         These compounds help to boost crop production higher than ever before.
+         Unfortunately, the nitrates from the fertilizers are having effects upon the local water sources.
+         The nitrates have encouraged algal blooms on the surface of the water, which then consume all of the dissolved oxygen in the water below, leaving nothing for the other forms of aquatic life.
+         This is called eutrophication. At the delta where the waterways eventually meet, a deadzone has formed.
+        *choice
+          #Ration the use of chemical fertilizers. Limit how much fertilizer can be applied per acre of land.	
+            The Good News: Wide-spread use of massive quantities of fertilizer has stopped.	
+            The Bad News: The surface area of the deadzone is still growing, albeit at a slower rate. The fisheries have begun to report fish die-offs.	
+            *choice
+              #Launch an awareness campaign, encouraging farmers to switch from chemical fertilizers to biofertilizers.
+                A popular celebrity singer has offered to write and sing a song about this issue. Fans of the celebrity organize protests against the corporation, threatening to boycott any producers who continue to perpetuate the problem.
+                Combined with a growing body of scientific literature about the dangers of consuming chemical fertilizers, whether through produce or fish from contaminated waterways, the movement quickly grows in popularity and the industry takes notice.
+                With this body of political support, you propose a bill to the legislative branch, advocating a ban on chemical fertilizers.Ration the use of chemical fertilizers. Limit how much fertilizer can be applied per acre of land.
+                *choice
+                  #Click to see what's behind Door Number 1
+                    Sorry, but your bill failed to get enough votes to pass. The agricultural lobby convinced the majority that a ban would not be beneficial to the nation.
+                    Since the price of oil has quadrupled, other sectors of the economy are beginning to buckle under the financial strain.
+                    Unemployment skyrockets and riots break out on the streets. Thousands of your citizens are fleeing the country, looking for better opportunities elsewhere. Tensions are rising, and the threat of civil war is on the horizon. The American NGO, Fund for Peace, has declared your country to be a failed state.
+                    Go back to the beginning and try to find another option.
+                    *finish
+                  #Click to see what's behind Door Number 2
+                    Congratulations! Your bill has passed and chemical fertilizers have been banned throughout the nation. You are now one step closer to non-dependence upon fossil fuels. Your next step will be to figure out how to keep the food supply from collapsing without the chemical additives.
+                    *finish
+              #Approach the corporate farms and start to negotiate voluntary commitments regarding their chemical use. Give them the chance to influence their future, rather than have to possibly submit to federal regulation at a later date. 
+                They agree to meet with you and voice their concerns about whether they will be able to make a profit without the use of chemicals.
+                You counter by citing examples of organic farming practices in other countries, such as Denmark.
+                You also refer to research studies which demonstrate a relationship between molecules which mimic human hormones (which are found in most fertilizers) and endocrine problems which manifest during gestation and puberty. 
+                Moved by your arguments, they offer to decrease fertilizer use by only 30%, but to decrease the application of petrochemical pesticides by 80%.
+                They point out that the original problem was caused by the spike in oil production, and argue that land degradation is a minor, side issue in comparion.
+                *choice
+                  #You realize that they are right, that all of your problems stem from a dependence on oil. Better take advantage of such a generous offer now!
+                    You agree with their point of view and accept their offer.
+                    Land degradation continues, the deadzone is very slowly growing every year, and the rate of fish die-off events has increased.
+                    However, without the use of fertilizers and pesticides, the annual crop yield of the large farms has dropped, which has cost them their freedom to cut prices. Small landowners now have a chance at competing against their corporate counterparts, which is helping to bring them up out of poverty.
+                    Additionally, without the agricultural industry putting up political obstacles, your country has begun to change its energy mix to include more renewables such as wind, solar, and tidal energies.
+                    *finish   
+                  #No, land degradation is an equally serious issue and still needs to be addressed.
+                    You refuse to accept their terms and the negotiations break down.
+                    You consider trying to pass federal legislation to force companies to comply, but you know that you have neither the public nor the political support necessary.
+                    In order to fix this, you decide to launch an awareness campaign.
+
+                    *page_break
+
+                    A popular celebrity singer has offered to write and sing a song about this issue. Fans of the celebrity organize protests against the corporation, threatening to boycott any producers who continue to perpetuate the problem.
+                    Combined with a growing body of scientific literature about the dangers of consuming chemical fertilizers, whether through produce or fish from contaminated waterways, the movement quickly grows in popularity and the industry takes notice.
+                    With this body of political support, you propose a bill to the legislative branch, advocating a ban on chemical fertilizers.
+                    *choice
+                      #Click to see what's behind Door Number 1
+                        Sorry, but your bill failed to get enough votes to pass. The agricultural lobby convinced the majority that a ban would not be beneficial to the nation.
+                        Since the price of oil has quadrupled, other sectors of the economy are beginning to buckle under the financial strain.
+                        Unemployment skyrockets and riots break out on the streets. Thousands of your citizens are fleeing the country, looking for better opportunities elsewhere. Tensions are rising, and the threat of civil war is on the horizon. The American NGO, Fund for Peace, has declared your country to be a failed state.
+                        Go back to the beginning and try to find another option.
+                        *finish
+                      #Click to see what's behind Door Number 2
+                        Congratulations! Your bill has passed and chemical fertilizers have been banned throughout the nation. You are now one step closer to non-dependence upon fossil fuels. Your next step will be to figure out how to keep the food supply from collapsing without the chemical additives.
+                        *finish 
+              #Wildcard! - Beware, this option could help or hurt your scenario ;)
+                Human innovation is a beautiful thing.
+                While you've been fumbling around, trying to find solutions, private citizens have been working to address the underlying problem of the oil crisis.
+                One of the smaller farms has been experimenting with organic food production techniques. Instead of oil-based fertilizers, the soil is being supplemented with home-made compost, and the drip-irrigation system is powered by a wind turbine.
+                Their energy consumption and waste production rates are significantly lower than any of their competitors.
+                *choice
+                  #Since this one farm cannot compete on the same scale as a massive oil-based one, you start a subsidy program to make organic produce more appealing to consumers.
+                    Success! The program takes off as customers seem to appreciate the health and environmental benefits of organic farming.
+                    The intergration of wind energy into the energy mix for agriculture is helping your country adapt to the oil crisis. There is still a lot of work left to do, but you're making great progress in one of the most energy-intensive industries in the world.
+                    *finish 
+                  #Amend the tax code to reward large corporations who take steps towards adopting this model.
+                    The large corporations compare how much they could save on taxes against the cost of implementing these changes and decide that it's not worth it.
+                    As the federal government, you have done all that you could to deal with the fallout of the oil crisis, without impinging upon the rights of your citizens.
+                    If there is going to be an energy or food revolution, it's up to the individual citizens and the private sector now.
+                    *finish
+          #Direct the national Department for Food and Agriculture to fund research into decreasing dependence upon fossil fuels.			
+            The head of the agency comes back to you with a document from the European Commission, and informs you that 27% of all fossil fuel that is used for farming goes just to powering agricultural equipment while an additional 6.2% is spent on irrigation. She advises you to focus future policy initiatives on these two fields.			
+            Which do you want to focus on first?			
+            *choice		
+              #Mechanical operation		
+                The goal of this policy will be to replace conventional tractors with multi-functional, photovoltaic electric vehicles.		
+                These tractors already exist and have proven to be both reliable and functional, but they are expensive, and will need to be subsidized.		
+                *choice	
+                  #You've already established one federal aid program for small landowners. Another would be too expensive and politically unpopular.	
+                    The interest support program has only just brought these farmers away from the edge of bankruptcy. Most do not have the credit necessary to get another large loan from the bank in order to make such a large investment by themselves. 	
+                    Knowing that your government cannot help your citizens, you turn to international organizations, and private foundations for help.	
+                    A specialized agency of the United Nations, the International Fund for Agricultural Development steps forward to help. Using UN funding, they offer farmers extremely low interest loans which can be paid off over many years. 	
+                    With the financial assistance, the electric tractors surge in popularity, and farmers build their own solar arrays to charge the vehicles.	
+                    This was the result you wanted, but your own inaction has made you highly unpopular with the rural population of your country. You lose your campaign for re-election. All you can do now is hope that your successor will continue to move the country away from expensive, imported oil	
+                    *finish	
+                  #These farmers are in a tough situation. The government needs to help them in SOME way in order to avoid larger and worse situations.	
+                    You unveil a lease financing program that would give farmers the right to use government-owned tractors in exchange for peiodic payments.	
+                    The urban demographic of your population are unhappy with this program at first. They have different priorities and want to see money devoted to other causes.	
+                    However, opinions rapidly change when the price of food comes tumbling down. Without a dependence on foreign oil prices, producers and retailers have fewer expenses and can offer more affordable prices.	
+                    Nice work! You've reduced your country's oil consumption in one of its most important and rresource-intensive sectors. There's more that you can still do, though.	
+                    Are you ready to keep going?	
+                    *choice
+                      #Yes
+                        Irrigation is fairly easy to power with renewable energy sources, such as wind.
+                        However, water management is vital. Pumping too much runs the risk of depleting the water table.
+                        Which do you think is the bigger issue for farmers: Changing how they power their water pumps, or managing water extraction?
+                        *choice
+                          #Change the source of power
+                            Wind power is the most practical alternative for this scenario. The turbine will capture the kinetic energy of the wind and use it to drive the water pump.
+                            You have two options for integrating wind energy into the grid:
+                            Centralize power production by building state-owned turbines and then distribute all of the energy through a central power plant.
+                            Or, you could permit the development of a decentralized system wherein municipalities or individual homeowners build their own turbines and control power distribution.
+                            *choice
+                              #Centralization
+                                Centralization has the benefit of minimizing overhead and administrative costs, but the reliance upon a single building is a vulnerability.
+                                A massive storm tears through your country and the central power plant is caught directly in its path. The turbines survive, but the plant itself has sustained heavy damages. The grid can't compensate for the loss of power, and black-outs cascade across the country.
+                                Repairs will take time, and your country will have to find ways to cope without the "unlimited" power which they were used to. Next time, the system will need to be more resilient.
+                                *finish
+                              #Decentralization
+                                As the federal government, there's not much you can do to create a decentralized system, except remove any barriers to accessing and contributing the grid. All investment capital will come from local governments, or from the private sector.
+                                To your surprise, this is exactly what happens. Multiple municipalities vote in favor of investing in wind power. In the regions where the measure fails, private citizens, under the guidance of a few international NGOs, set up their own systems for their farms.
+                                With very little federal action, not only do farms incorporate renewables into their energy mix, but other sectors are inspired to do the same, which greatly reduces your country's dependence upon foreign oil.
+                                *finish
+                          #Regulate groundwater extraction
+                            The easiest way to regulate groundwater extraction would be to make energy expensive again. If energy was expensive, then farmers would be more conservative in their water usage.
+                            However, the oil crisis has left farmers financially challenged. Raising the price of energy could send them into poverty.
+                            What could you do instead?
+                            *choice
+                              #Restrict how much water an acre of land is allowed to use.
+                                The water needs for different crops will vary based on the species, the strain, and the microclimate conditions of each area.
+                                You attempt to produce regulative guidelines for every possible combination of elements, but the task is too daunting and too variable. A regulative format like this just isn't flexible enough to accpunt for everything that could happen, and so the project falls through. 
+                                As the aquifer levels continue to drop, poverty rates increase, not just for farmers, but also for the residents who rely on aquifers for drinking water supplies.
+                                When poverty increases, the crime rate often follows. Your country is facing an environmental, economic, and social crisis, all because of a dependence upon oil.
+                                *finish
+                              #Invest federal funding in research and development projects for techniques and technologies that could decrease the demand for water.
+                                The research quickly reveals that drip irrigation may be the key to reducing how much water is needed for farming.
+                                Drip irrigation brings water directly to the roots of the crops. This method reduces how much water is lost to evaporation or run-off.  
+                                The adoption of this method reduces water consumption by 40%. The increased efficiency means that farmers need less fuel to accomplish the same task.
+                                *finish
+                      #No
+                        You've come so far and you want to quit now? What a shame.
+                        Content to sit on your laurels and enjoy international praise, you ease back on your environmental policy efforts and decide to let it become someone else's problem. :(
+                        *finish
+              #Irrigation
+                Irrigation is fairly easy to power with renewable energy sources, such as wind.
+                However, water management is vital. Pumping too much runs the risk of depleting the water table.
+                Which do you think is the bigger issue for farmers: Changing how they power their water pumps, or managing water extraction?
+                *choice
+                  #Change the source of power
+                    Wind power is the most practical alternative for this scenario. The turbine will capture the kinetic energy of the wind and use it to drive the water pump.
+                    You have two options for integrating wind energy into the grid:
+                    Centralize power production by building state-owned turbines and then distribute all of the energy through a central power plant.
+                    Or, you could permit the development of a decentralized system wherein municipalities or individual homeowners build their own turbines and control power distribution.
+                    *choice
+                      #Centralization
+                        Centralization has the benefit of minimizing overhead and administrative costs, but the reliance upon a single building is a vulnerability.
+                        A massive storm tears through your country and the central power plant is caught directly in its path. The turbines survive, but the plant itself has sustained heavy damages. The grid can't compensate for the loss of power, and black-outs cascade across the country.
+                        Repairs will take time, and your country will have to find ways to cope without the "unlimited" power which they were used to. Next time, the system will need to be more resilient.
+                        *finish
+                      #Decentralization
+                        As the federal government, there's not much you can do to create a decentralized system, except remove any barriers to accessing and contributing the grid. All investment capital will come from local governments, or from the private sector.
+                        To your surprise, this is exactly what happens. Multiple municipalities vote in favor of investing in wind power. In the regions where the measure fails, private citizens, under the guidance of a few international NGOs, set up their own systems for their farms.
+                        With very little federal action, not only do farms incorporate renewables into their energy mix, but other sectors are inspired to do the same, which greatly reduces your country's dependence upon foreign oil.
+                        *finish
+                  #Regulate groundwater extraction
+                    The easiest way to regulate groundwater extraction would be to make energy expensive again. If energy was expensive, then farmers would be more conservative in their water usage.
+                    However, the oil crisis has left farmers financially challenged. Raising the price of energy could send them into poverty.
+                    What could you do instead?
+                    *choice
+                      #Restrict how much water an acre of land is allowed to use.
+                        The water needs for different crops will vary based on the species, the strain, and the microclimate conditions of each area.
+                        You attempt to produce regulative guidelines for every possible combination of elements, but the task is too daunting and too variable. A regulative format like this just isn't flexible enough to accpunt for everything that could happen, and so the project falls through. 
+                        As the aquifer levels continue to drop, poverty rates increase, not just for farmers, but also for the residents who rely on aquifers for drinking water supplies.
+                        When poverty increases, the crime rate often follows. Your country is facing an environmental, economic, and social crisis, all because of a dependence upon oil.
+                        *finish
+                      #Invest federal funding in research and development projects for techniques and technologies that could decrease the demand for water.
+                        The research quickly reveals that drip irrigation may be the key to reducing how much water is needed for farming.
+                        Drip irrigation brings water directly to the roots of the crops. This method reduces how much water is lost to evaporation or run-off.  
+                        The adoption of this method reduces water consumption by 40%. The increased efficiency means that farmers need less fuel to accomplish the same task.
+                        *finish
+                  #Wildcard! - Beware, this option could help or hurt your scenario ;)		
+                    You establish a national utility agency to control water extraction and to keep prices stable. You want to make the system equal for everyone, rather than for only those who can afford to switch energy sources. 		
+                    Under the control of this federal agency, the market price for groundwater extraction drops and stays low. 		
+                    Farmers all across the nation are ecstatic at the cheap price of water and start to demand more. As supply tries to keep up with demand, the groundwater aquifers rapidly become depleted. 		
+                    Without all of that water, the soil around the aquifers collapse, compact, and drop, which means that all of the land above the aquifer also collapses in on itself.		
+                    The collapse introduces contaminants to the remaining groundwater, polluting the rest of the supply, rending it unfit for human consumption.		
+                    In sharp contrast to the earlier cheap water prices, the cost of drinking water skyrockets.		
+                    Inadequate water supplies encourage a mass migration movement out of your country, and your state becomes highly unstable, unable to cope with the sudden drop in population.		
+                    Go back to the beginning and try to find a better solution.		
+                    *finish		
+          #Government actions have already put the small farmers in this vulnerable position. Stay out of the market and let them handle it themselves.				
+            More and more small-scale farmers slide into bankruptcy. Larger corporations can survive the price spike in oil, and now have the opportunity to buy even more land for extremely low prices. 				
+            With less competition in the market, the price of food crops go up. As the price of rice, your primary export, goes up, though, international demand for your products decreases because other nations are offering lower prices. National GDP drops.				
+            Do you continue with a laissez-faire form of governance, or will you step in?				
+            *choice			
+              #Yes. Staying uninvolved would lead to a downward spiral of consequences.			
+                Just to recap, the price of oil is astronomical, small-scale farming is practically gone, deadzones are growing in your waterways, and the national GDP has plummeted.			
+                The national GDP is the hot topic in the media and a great deal of political pressure is pushing you to fix it.			
+                In order to increase the national GDP for the long-term, you need to increase your country's supply capacity, which can be done by encouraging investment and increasing capital.			
+                Public opinion on oil is at an all-time low. Investors want to find alternative energy sources.			
+                How do you respond?			
+                *choice		
+                  #Mandate Renewable Portfolio Standards for utility companies		
+                    Renewable Portfolio Standards, or RPSs, require that all utility companies generate a certain percentage of their energy from renewable sources.		
+                    Normally, this would not be the ideal way to increase your country's capacity for renewables, but investors are willing to take on more risk in order to pull away from a dependence on foreign oil.		
+                    The madate requires utilities to produce 10% of the energy from wind power within the next ten years. It's a small start, but you have the opportunity to launch more ambitious goals later on.		
+                    *finish		
+                  #The economy is very unstable right now. Investors might not WANT to take too many risks right now. Instead, have the federal government invest in renewable infrastructure.		
+                    A large infrastructure project which uses public funding requires public approval. After drafting a proposal for the construction of a wind farm, the document is released for critiques and comments.		
+                    Here, you encounter a massive NIMBY opposition. NIMBY stands for "Not In My Backyard." The opposition is effectively halting progress because they refuse to allow you to build near their homes.		
+                    You need to go back to the drawing board to find a solution which will satisfy everyone.		
+                    *finish		
+              #No. Private actors will take responsibility for their own actions and will handle the situation.			
+                To the surprise of your critics, private actors do step forward to take control.			
+                The agricultural industry now has a motivation to bring prices back down. They consider making a deal with oil-companies to get oil for a lower price, but the political and civil unrest in the largest oil-producing nation is still ongoing. The industry is on its toes, waiting to see what will happen next. Nobody is looking to make a deal right now. 			
+                The largest producers in your country form a council to decide what the next step ought to be. One of them suggest breaking away from oil altogether. The others understand their reasoning, but are skeptical that it could work. They propose to organize a pilot program to determine the feasibility of a break from oil.			
+                However, as the federal government working under a "hands-off" policy, there's not much that you can do. Whether the program succeeds or fails is completely out of your hands now.			
+                *finish			
+      #Encourage the former farmers to find new work in the cities.					
+        The mass migration out of the countryside into the urban centers puts a strain on urban services.					
+        The demand for transportation, housing, and employment skyrockets, and the city is not prepared to handle it.					
+        How do you want to handle this new scenario?					
+        *choice 				
+          #Manufacturing jobs are good for the economy and many of the needed skills can be taught to the migrants. Encourage businesses to grow in order to create more jobs.				
+            The fashion industry is one of the largest and most profitable sectors in the world, employing about 40 million workers, 85% of whom are women, and generating about 3 trillion USD around the world, per year.				
+            Impressed by these statistics, you want to convince global fashion corporations to open up factories in your own country. You offer land for factories rent-free for the next five years. 				
+            Fast fashion companies are always looking for ways to cut costs in order to offer their consumers the lowest prices possible. They readily accept the deal.				
+            The new surplus of laborers means that employers can pick and choose who to employ and what benefits to offer.				
+            They pack workers into the building and require them to work 16-hour days. Over the course of a month, they earn about $60 USD. 				
+            Workers who tan leather for shoes and jackets are being diagnosed with cancer 20%-50% more frequently than any other profession. 				
+            Aghast at what is happening to your citizens you know that you need to do something.				
+            *choice			
+              #The price of oil is still astronomical, and your people need jobs. You will handle the problem, but you just can't afford to right now.			
+                One afternoon, one of the factories used for garment production collapses.			
+                More than 2,500 people are injured, and 400 are killed.			
+                The investigation reveals that the building was only permitted to have five floors, but an additional three had been illegally added, without any of the necessary building code evaluations. Workers had reported cracks in the walls, but the manager had insisted that the the factory was still structurally sound. 			
+                Massive protests are flooding the plaza where the factory was, demanding reform and safer working conditions.			
+                How will you handle this?			
+                *choice		
+                  #Blame the fashion corporations and promise to hold them responsible.		
+                    There's not much that you can do to force the corporations to do anything. Technically, what goes on inside the factory is the responsibility of the factory managers. According to the contracts, the corporation is not legally responsible. They offer their condolences for the tragedy, and that's about it.		
+                    You need to find another way to keep this situation from repeating itself.		
+                    *finish		
+                  #Take the blame yourself		
+                    You can't forget that you brought this industry to your country, and you encouraged them to take advantage of the labor force.		
+                    Your press secretary issues a statement acknowledging the mistake, and you promise to improve working conditions for laborers.		
+                    To be honest, though, you don't know how you'll get the political power to fulfill these promises. The high price of oil is still hurting the economy and everyone has their own priorities.		
+                    *finish		
+              #Forget about expenses, this is an outrage! Your people need help, at any cost necessary.			
+                After witnessing the horrifying working conditions which garment workers have to work in, you refuse to renew the leasing deal with fast-fashion corporations. Knowing that they can find better deals in other countries, they leave and take their jobs with them.			
+                With unemployment once more on the rise, crime also rises as people grow desparate to provide for their families.			
+                The head of the trade department comes to you with a new policy proposal. Fashion is still a good industry to look into because it is labor intensive and not easily automated. However, there are other kinds of fashion than the large fast fashion corporations.			
+                Designers from more well-developed countries are aware of the human rights violations perpetuated by fast fashion, and they want to start businesses that use a different business model.			
+                Just as you offered incentives for the large fashion corporations, you could do the same with these smaller businesses.			
+                What do you think?			
+                *choice		
+                  #These small businesses can't create all of the jobs that your country needs. Additionally, critics of these foreigners are calling them modern imperialists, imposing their power over your people.		
+                    You thank your trade advisor, but his proposal wouldn't be enough. However, it does give you an idea.		
+                    Why not encourage your citizens to start their own businesses? Entrepreneurship can better meet the local needs of each community, and all of the processes can be kept within the country.		
+                    You start a fund to help first-time entrepreneurs gather enough capital to get started. Since oil is still a problem in your country, you promise to prioritize any proposals which minimize waste, increase efficiency, or utilize alternative sources of energy.		
+                    *finish		
+                  #You need to do SOMETHING to help your people. This won't solve all of your problems, but sustainable development could be a start.		
+                    As promised, the working conditions of these employees are significantly better than for the fast fashion workers.		
+                    The cotton used by these designers is organic, which means that fewer expensive fossil fuels were needed. This helps to bring down the cost of fabric and make it commercially competitive.		
+                    Since these designers are fairly small, they cannot employ as many of your citizens as you would like. The benefit of their work, though, is that you see a way out of a dependence on fossil fuels.		
+                    If foreign fossil fuels are going to make so many manufacturing processes financially unattractive, this could be an opportunity for you to gather the support necessary to look into alternative energy sources.		
+                    Go back to the beginning and find one such route.		
+                    *finish		
+          #Improve the public transit network in order to enable people to live outside the city, but still work in it.				
+            Heavy rail train systems require a lot of capital, a lot of fuel, and often exceed budgets and schedules.				
+            Considering the high cost of oil right now, it might be more cost-effective to invest in bicycle infrastructure for short-distance trips, and in electric buses for middle- and long-distance trips.				
+            Bicycles don't require fossil fuel, cheap compared to cars, and cycling is well-documented as being beneficial for individual health. The downside to cycling is that it's not an accessible mode of transport for those who have physical impairments.				
+            Buses can help fill this gap, and will take advantage of the already existing road infrastructure. However, electric buses won't help you to lower expenses if that electricity is produced by burning oil.  				
+            Which mode of transportation do you want to address first?				
+            *choice			
+              #Bicycles			
+                In order to get from outside the city to the city center, you will need bike paths which run alongside roads. The head of transportation agency advises you against allowing bikes and cars to occupy the same road space. Such practices have lead to cyclist fatalities in other countries around the world.			
+                A complete, convenient, and well-integrated system will also require bike racks or shelters for people to leave their bikes when they reach their destination.			
+                To pay for this construction, you propose a city bike-sharing program. By subscribing to the program, people can rent bikes from different stations in and around the city. The membership fees will be earmarked to pay for the project over the long-term. Based on expected ridership numbers, you predict that you could see a return on investment in 30 years.			
+                You know that 30 years is a long time to possibly see returns. Do you want to move forward?			
+                  *choice		
+                    #Yes because, although this is a long-term investment, the market instability of oil is damaging to business. Anything that can stabilize the economy in the long-run will be worth it.		
+                      You give the green light to your transportation agency, and tell them to go ahead with the project.		
+                      Time to think about the problem of buses now.		
+                      
+                      *page_break
+
+                      Your city already has all of the infrastruture necessary to accommodate cars, which is pretty similar to what buses need.			
+                      Adding bus lines in and out of the city could alleviate congestion problems, since buses can carry the same amount of passengers in a smaller space than cars, which means fewer vehicles on the road.			
+                      Before you can put buses on the roads, though, you need to address the problem of energy supply. The high price of oil and gasoline are forcing you to consider alternative energy sources.			
+                      The two which you are considering are compressed natural gas (CNG), which you can produce domestically, or hybrid-electric buses.			
+                      Which will you pursue?			
+                      *choice		
+                        #Natural gas		
+                          Since natural gas is less dense than gasoline, buses that run on natural gas will have a lower mileage per tank of fuel. 		
+                          On the plus side, though, CNG produced 20-45% fewer smog pollutants than gasoline or diesel. Less smog will mean better health for city residents and for anyone who lives near a bus depot.		
+                          The switch to natural gas is predicted to reduce your annual oil and petroleum consumption by 92%, and will stabilize your energy market.		
+                          However, you need to keep in mind that natural gas is a depletable resource too. Your proven gas reserves are sufficient for now, but eventually you will run out.		
+                          *finish		
+                        #Hybrid-electric		
+                          Hybrid vehicles draw energy from both an electric battery and from a combustion engine.		
+                          According to heads of your transportation and energy agencies, solar would be the best way for your country to generate electricity. Solar panels will be added to the roofs of the bus depots and to the overhead of each bus shelter at each stop.		
+                          Buses will charge while they're in the depot, and then they'll briefly continue charging at each stop. 		
+                          The combustion engine will be powered by ultra low sulfur diesel. This means that your bus system will not be completely independent from foreign oil, but you will drastically reduce how much you need. The combusion engine is only necessary for longer stretches of road outside of the city. For stop and go traffic, the bus will rely on its battery.		
+                          *finish			
+                    #No, there's too much risk, too much uncertainty, and you'll never convince people to stop using cars.		
+                      Without your support, the bike path proposal falls flat on the congress floor.		
+                      City services are buckling under the demand for public services. 		
+                      NGOs are staging demonstrations, demanding that something be done. 		
+                      Go back to the beginning and try to find another way to solve your problems.		
+              #Buses			
+                Your city already has all of the infrastruture necessary to accommodate cars, which is pretty similar to what buses need.			
+                Adding bus lines in and out of the city could alleviate congestion problems, since buses can carry the same amount of passengers in a smaller space than cars, which means fewer vehicles on the road.			
+                Before you can put buses on the roads, though, you need to address the problem of energy supply. The high price of oil and gasoline are forcing you to consider alternative energy sources.			
+                The two which you are considering are compressed natural gas (CNG), which you can produce domestically, or hybrid-electric buses.			
+                Which will you pursue?			
+                *choice		
+                  #Natural gas		
+                    Since natural gas is less dense than gasoline, buses that run on natural gas will have a lower mileage per tank of fuel. 		
+                    On the plus side, though, CNG produced 20-45% fewer smog pollutants than gasoline or diesel. Less smog will mean better health for city residents and for anyone who lives near a bus depot.		
+                    The switch to natural gas is predicted to reduce your annual oil and petroleum consumption by 92%, and will stabilize your energy market.		
+                    However, you need to keep in mind that natural gas is a depletable resource too. Your proven gas reserves are sufficient for now, but eventually you will run out.		
+                    *finish		
+                  #Hybrid-electric		
+                    Hybrid vehicles draw energy from both an electric battery and from a combustion engine.		
+                    According to heads of your transportation and energy agencies, solar would be the best way for your country to generate electricity. Solar panels will be added to the roofs of the bus depots and to the overhead of each bus shelter at each stop.		
+                    Buses will charge while they're in the depot, and then they'll briefly continue charging at each stop.  		
+                    The combustion engine will be powered by ultra low sulfur diesel. This means that your bus system will not be completely independent from foreign oil, but you will drastically reduce how much you need. The combusion engine is only necessary for longer stretches of road outside of the city. For stop and go traffic, the bus will rely on its battery.		
+                    *finish		
+          #Help the migrants find affordable housing by passing a law establishing a cap on rent				
+            City living is almost always more expensive than living in a rural community. On top of that, the migrants are currently out of work. You successfully convince your congress that they should pass this bill because a spike in the city's homeless population would not bode well.				
+            Landlords are unhappy with this decision, but you mollify them by saying that they wouldn't have any tenants at all if they kept prices high.				
+            As the new city residents get settled in, you notice that they are still putting their green thumbs to work. In courtyards, abandoned lots, and rooftops, urban farms are popping up everywhere.				
+            They are always small in scale, almost as though they're more like hobbies than actual occupations.				
+            When asked about the farms, the new residents comment that it's a way to cut expenses by reducing how much they need to spend on groceries.				
+            Problematically, though, the head of the housing agency informs you that what they are doing is technically illegal. The land that they're using doesn't belong to them.				
+            What are you going to do?				
+            *choice			
+              #The law is the law and as the leader of the executive branch, you must enforce it. 			
+                You give the order to shut down the farms. They're not hurting anyone, so there's no need to add a financial penalty, but they still need to respect the property rights of the owner.			
+                Without the farms, the new residents have higher expenses, and several families have now applied participate in the national food stamp program.			
+                There is growing animosity among this new demographic towards your administration. They feel as though you're not doing anything to help them. 			
+                These voters are now more concentrated in the cities than spread out in the countryside. When the next congressional election cycle rolls around, they tip the political balance away from you, and you find yourself as part of the minority party and with much less power. The odds of getting the policy that you want passed, is starting to look less and less likely.			
+                *finish			
+              #Let them be. Nobody is complaining.			
+                Anything that can help residents stay out of poverty is a good thing.			
+                The number of urban farms around the city grows, and the same is happening in cities around the country.			
+                In areas where the farms are most dense, there is a correlation to a decrease in road rage. Drivers report feeling calmer when they see so much green. Additionally, the air quality of the city is improving.			
+                An idea strikes you as you witness the productivity of the urban vegetable patches.			
+                How about, instead of pointing out the illegal nature of the farms, you turn this into a commercial opportunity? Why not let tenants sell their extra produce?			
+                *choice		
+                  #It's one thing to turn a blind eye to something that is illegal but harmless. To make an illegal activity profitable is another thing entirely.		
+                    Allowing tenants to earn money on land that is not theirs is unfair to the landlords. You've already decided that you're not going to discourage the practice, but you definitely won't encourage it.		
+                    The urban gardens remain small and convenient as the residents continue to struggle to find work in the city.		
+                    It's going to take a little while for thenew residents to acclimate to the new situation, and for everyone else to adjust to the new oil prices.		
+                    For now though, life is stable.		
+                    *finish		
+                  #This is an easy way to create jobs and no new education will be required because they already have all the skills they need.		
+                    Congress passes a bill which gives urban farmers the opportunity to apply for a commercial license. The bill stipulates that the owner of the land must agree to the use thereof and will be financially compensated for it.		
+                    Since each plot of land is so small, there's no need for farmers to purchase heavy mechanical equipment, or invest in large irrigation systems.		
+                    When the next harvest season rolls around, community organizers schedule locally-grown farmers' markets, which turn out to be a big hit!		
+                    Locally-grown produce does not need to travel, which means that transportation costs, which would be high now due to expensive oil, are non-existent. The large farms, however, due still need to travel into the city, and have to incorporate their oil expenses into the price. 		
+                    Urban produce is commercially competitive, and is an added source of revenue for the city. 		
+                    *finish	
+      #Try to redistribute the new wealth of the nation by putting a tax on industry. Use this money to help fund university scholarships.					
+        Many of the newest students come from former farming families. When families were pushed out of agriculture, parents sent their children away to learn new skills which would help them to make a more successful future for themselves.					
+        Due to the stresses placed on the economy by oil, the study of natural resources has become a popular field for students. 					
+        Throughout their studies, students read published reports on the negative impacts of carbon dioxide and climate change. The most terrifying of which revealed that the atmosphere is already composed of 410 parts per million (ppm) of carbon dioxide. This concentration of carbon dioxide has not been this high for millions of years. Climate scientists warn that concentrations of 450ppm of carbon dioxide could result in irrevocable changes.					
+        Frightened by these findings, but motivated to do something, students organize a climate march and plan to stage a protest in front of the your office. They demand that the federal government help to move the country away from its dependence upon fossil fuels.					
+        Determined to break foreign oil's hold over your country, you agree to work with the environmental movement.					
+        There are two paths which you could take to address climate change issues:					
+        *choice				
+          #Mitigation, or preventing the problem from getting worse				
+            In this case, mitigation means stabilizing or reducing the amount of carbon dioxide or greenhouse gas emissions which are produced by human activities.				
+            Of the three main fossil fuels (oil, coal, and natual gas), coal is considered the most damaging because the burning of coal releases the most carbon dioxide into the atmosphere. Second to coal is oil.				
+            If you want to reduce your annual greenhouse gas emissions, you need to reduce your oil consumption.				
+            You can achieve this by investing in either natural gas, which you can harvest from your own country, or by investing in renewable energies.				
+            Natural gas will still release a great deal of emissions into the atmosphere, but it has the benefit of fitting better into the existing infrastructure system.				
+            Which will you choose?				
+            *choice			
+              #Renewable Energy			
+                Renewable energies get their name from the near-unlimited abundance of this resource.			
+                Most renewable sources derive their energy from the sun (solar energy harvests light, wind energy is the movement of heated air currents, and biomass is grown using the sun for photosynthesis). The exceptions from this rule are tidal energy, which derives its power from the gravitational forces of the moon, and geothermal power, which comes from the center of the Earth.			
+                As a tropical country, the most abundant renewable resource for you is solar and biomass. If you choose to pursue biomass as your primary energy source, you need to carefully balance how much you burn against how fast you can grow the plants. If you choose to pursue solar energy, then you need to address the question of what to do when the sun isn't shining.			
+                *choice		
+                  #Biomass		
+                    Different kinds of plants can be used as fuel sources by burning them in order to access the energy stored within the organic matter. 		
+                    Biomass is one of the ideal energy sources for peak demands in energy consumption. Unlike wind or solar energy which fluctuates uncontrollably, utilities can control how much biomass is burned from hour to hour in order to more accurrately meet energy demand. 		
+                    Your government will need to impose strict regulations in order to ensure that you don't burn through your supply of crops faster than you can grow them.		
+                    *finish		
+                  #Solar		
+                    Solar is considered a variable energy source because the sun does not always shine, due to the time of day or to local weather patterns. Variable does not mean unpredictable, though. Energy analysts can predict with reasonable accuracy how much electricity can be produced by solar on any given day.		
+                    As an uncontrollable energy source, solar is more well-suited to meeting the baseload energy demand, or the demand which always exists.		
+                    Photovoltaic solar panels are easy to install and are popular choices for many private homeowners. However, the energy which is produced must be used immediately, or else it will be wasted. 		
+                    One of the challenges of solar is that, the sun is shining the most when the demand for electricity is the lowest, and vice versa.		
+                    Your government will need to invest in ways to store the energy when it is not needed, in order to be used later on.		
+                    *finish		
+              #Natural Gas			
+                Unlike oil, natural gas is composed almost entirely of methane. There is nothing about it that is more "natural."			
+                Right now, natural gas is a better financial option for your country only because oil is expensive and domestic natural gas production is a cheaper option. If the price of oil were to suddenly drop and become competitive with natual gas again, then you would never see any returns on your investment.			
+                The downside to naural gas, though, is that, pound for pound, methane is 25 times more potent of a greenhouse gas than carbon dioxide. A gas leak could have devastating consequences for both the environment and for human health.			
+                Since there is so much risk in natural gas, it might be challenging to find investors to help pay for the needed infrastructure changes. This could be good or bad. It could be bad because it may be nearly impossible to find the financial support necessary to make these changes, but it could be good because those investors might be willing to consider other, "greener" technologies.			
+                As the head of the executive branch, you have some power to encourage the direction of domestic policy. Will you encourage or discourage the transition to natural gas?			
+                *choice		
+                  #Encourage natural gas		
+                    The federal government sets up a matching program with municipal governments, promising to contribute an equal amount of funding to any construction project. Funding for both the federal and the municipal governments comes from tax payers, who would not be happy to see an increase in their taxes. This means that municipalities will have to be careful with what projects they choose and how efficiently they will be accomplished.		
+                    Natural gas is still a finite resource, though. Eventually, it will run out, especially if consumption increases. A future administration will have to deal with the costs of switching to another fuel source.		
+                    *finish		
+                  #Discourage natural gas		
+                    Well, you've already ruled out renewable energies, oil is not an option, and now natural gas is out too.		
+                    Maybe you should go back over your options and try to find one that will work for you.		
+                    *finish		
+          #Adaptation, or preparing for the problems which are going to occur
+			
+            Adaptation methods are usually short-term fixes to larger, more expensive problems.				
+            Climate change problems which will require adaptation range from rising sea levels to an increase in the occurrence of extreme weather phenomenon, such as drought or flooding.				
+            Perhaps the greatest barrier to implementing adaptation measures is the expense of it. 				
+            Critics of adaptation believe that since such measures never affect the underlying problems, they are never actually worth the investment. Instead, they are just acknowledgements of defeat in the face of a problem which they believe that they cannot change.				
+            Supporters of adaptation believe that it's necessary to prepare for the changes which will occur even if the entire planet stopped producing greenhouses gases completely tomorrow.				
+            Since you believe that adaptation is a worthwhile strategy, how do you want to pay for it?				
+            *choice			
+              #Polluter Pays Principle			
+                This principle states that those who emit pollutants and harmful chemicals ought to be the ones to pay for the damage and to clean it up.			
+                In this scenario, a carbon tax would be the best financial mechanism to accomplish this.			
+                A carbon tax is a fee placed on fossil fuels in an attempt to internalize the cost of the release of carbon dioxide.			
+                The ultimate goal of carbon taxes is to fossil fuels financially unattractive enough to disincentivize their use as energy sources.			
+                Passing carbon tax laws are politically unpopular, and you can expect a great deal of opposition from the fossil fuel industry.			
+                The successful implementation of this could give you the chance to simultaneously pursue both an adaptation and a mitigation strategy.			
+                Good luck!			
+                *finish	
+              #Raise taxes for those communities who will directly benefit			
+                It's reasonable to expect those who will benefit to also be the ones to pay for it.			
+                However the communities who are most at risk from climate change, and who have the greatest need for such measures, also tend to already be the most vulnerable communities.			
+                A smaller number of individuals will be taxed, which means that the per capita tax rate will be higher. It may be too high for many communities.			
+                Some people may choose to move away, rather than pay the tax, which could alleviate part of the problem, but it is unlikely that everyone will do this.			
+                This course of action will be politically unpopular with a comparatively small percentage of your constituency, but it runs the risk of being economically unviable.			
+                *finish
+  #Try to negotiate peace between the warring parties. Maybe peace can bring the price of oil back down.						
+    Negotiations break down.						
+    Your ambassadors return home with threats of violence from some of the more radical actors of the civil war.						
+    *choice					
+      #Look to import oil from another country					
+        The currently warring nation is the largest oil-producer in the world. Production from these smaller countries cannot meet the demand which you require.					
+        It's time to look inwards, see where you can improve your own systems.					
+					
+        *page_break					
+						
+        In your country, transportation is the most oil-reliant sector of your economy. With oil at $200 per barrel at now, it's also your most expensive sector. You decide that this is going to be your priority for future policy initiatives.					
+        What part of the transportation sector are you going to look at first?					
+        *choice				
+          #Private cars				
+            In the urban and suburban areas of your country, most families own one or two cars. These cars spend 60% of their lifespan sitting in parking lots, not being used.				
+            Why let the high prices of oil cripple your economy through the use of cars for every day transport? 				
+            You decide to look into getting electric cars on the road.				
+            *choice			
+              #Add a registration tax to all gasoline cars			
+                Increasing taxes is never a politically popular move, but they tend to be effective.			
+                The additional expense will make some of the externalities of car-driving more tangible.			
+                This tax will create a few problems though. Lower-income households may not be able to afford a switch to electric cars, which are currently more expensive than gasoline cars, and which require infrastructure such as charging stations. For this portion of your population, how will you handle their need for transportation?			
+                *choice		
+                  #Encourage non-motorized forms of transit, such as cycling or walking		
+                    Cycling and walking are known to be more beneficial for individual health, but they're also comparatively slow modes of transit.		
+                    For people who live in the suburbs, the distance between home and work may be too far.		
+                    While non-motorized transport is great for reducing oil transport, it needs to be supplemented by another, long-distance mode in order to be practical.		
+                    *finish		
+                  #Encourage car-sharing between neighbors in order to split the cost between households		
+                    Car-sharing or car-pooling can reduce costs for individuals, but they can be tricky to organize.		
+                    In order for this to work, you need to have groups of people who already live near each other AND work near each other.		
+                    To help workers figure out if anyone with a similar commute lives nearby, you launch an online program where workers can select their neighborhood and their destination, and will then see if there are any matches.		
+                    A program like this will depend upon individual comfort level and perceived safety, both of which are out of your control. Only time will tell if this program works.		
+                    *finish		
+              #Invest in infrastructure which will benefit electric vehicles			
+                Driving gasoline cars is already unpopular, due to the the high cost of fuel and the air pollution which cars create.			
+                Electric vehicles do not have these problems, and you can capitalize on these differences by making electric driving an even more attractive experience.			
+                Adding charging stations to currently existing gas stations will make it easier for electric-drivers to travel farther than the limits of the car's battery.			
+                Converting one lane on major highways to "Electric Only" lanes will cut down on commute times for electric-drivers.			
+                Which do you want to pursue?			
+                *choice		
+                  #Add charging stations		
+                    While electric cars are well-suited for the stop-and-go traffic of urban and suburban life, electric batteries are less efficient on longer trips.		
+                    Mandating that gas stations add charging stations could expand the geographic range of electric cars, but may not be well-received in areas that do not already have a high electric car density.		
+                    Rather than passing regulation, you could incentivize managers to voluntarily install their own charging stations, either through tax credits or a subsidy.		
+                    *finish		
+                  #Create a lane just for electric cars		
+                    This could potentially be a politically viable proposal, due to its similarity to already-existing HOV (High-occupancy vehicle) lanes.		
+                    The expenses for this would be comparatively low, requiring only a few signs describing the rules of the lane, and possibly repainting the roads.		
+                    Altogether, it would be much less expensive than expanding the highway, which was the general trend back when oil was cheap.		
+                    A lane like this could encourage new car buyers to choose an electric car in order to take advantage of "electric-perks."		
+                    *finish		
+          #Trains				
+            Train construction projects are expensive and require a great deal of investment capital.				
+            However, their size and carrying capacity means that they're a far more efficient use of space than cars.  				
+            The problem with trains, though, is that they require massive quantities of fuel. In order for the trains to pay for themselves, ridership will have to increase significantly. 				
+            How will you promote the development of rail infrastructure?				
+            *choice   
+              #You can decrease expected operating expenses by changing how trains are powered.			
+                Replacing diesel trains with electric ones will not automatically solve the problem of fossil fuel consumption. In your country, the majority of your electrcity production is still derived from fossil fuels. Switching to a renwable resource, such as biofuel, for electricity production could help to solve this problem, though.			
+                While the cost of replacing diesel trains could easily jump into the millions of USD range, you will see savings over the long term due: an end to your dependence upon expensive fossil fuels, 20-30% fewer carbon monoxide emissions, and lower maintenance costs.			
+                Construction projects also generally tend to be politically popular because of the number of jobs which they are expected to create.			
+                Ironically though, you might face political opposition from environmentalists, especially ecologists.			
+                Construction is often damaging to local ecosystems, and the completed train tracks could bisect habitats and frighten away animals.			
+                Municipal governments will have to be conscious of where exactly they plan to put down tracks in order to avoid causing other environmental problems.			
+                *finish			
+              #Offer municipalities long-term, low-interest loans, and plan to pay them back using ridership revenues and by selling the land around the tracks for commercial development.			
+                Railway construction is not a temporary solution to the transit problem. If you are building a railway, then you're intending to use it for several decades. This means that long-term and low-interest loans are financially feasible, because they can be repaid over a span of 40 or more years. 			
+                Selling the land around the train tracks promotes Transportation-Oriented Development (TOD), which is a school of urban development which prioritizes access to public transit. Supporters of TOD believe that it is the next step in designing more sustainable cities.			
+                Improving public transit will motivate the citizens of your country to forego their cars. If enough cars are left in the driveway, then it is possible that your country will decrease its overall yearly fossil fuel consumption. 			
+                If you want to see more immediate results, though, you should consider either changing the energy source of trains, or address the problems posed by other modes of transport.			
+                *choice		
+                  #Change the fuel source of trains		
+                    Replacing diesel trains with electric ones will not automatically solve the problem of fossil fuel consumption. In your country, the majority of your electrcity production is still derived from fossil fuels. Switching to a renwable resource, such as biofuel, for electricity production could help to solve this problem, though.			
+                    While the cost of replacing diesel trains could easily jump into the millions of USD range, you will see savings over the long term due: an end to your dependence upon expensive fossil fuels, 20-30% fewer carbon monoxide emissions, and lower maintenance costs.			
+                    Construction projects also generally tend to be politically popular because of the number of jobs which they are expected to create.			
+                    Ironically though, you might face political opposition from environmentalists, especially ecologists.			
+                    Construction is often damaging to local ecosystems, and the completed train tracks could bisect habitats and frighten away animals.			
+                    Municipal governments will have to be conscious of where exactly they plan to put down tracks in order to avoid causing other environmental problems.			
+                    *finish		
+                  #Private cars		
+                    In the urban and suburban areas of your country, most families own one or two cars. These cars spend 60% of their lifespan sitting in parking lots, not being used.				
+                    Why let the high prices of oil cripple your economy through the use of cars for every day transport? 				
+                    You decide to look into getting electric cars on the road.				
+                    *choice			
+                      #Add a registration tax to all gasoline cars			
+                        Increasing taxes is never a politically popular move, but they tend to be effective.			
+                        The additional expense will make some of the externalities of car-driving more tangible.			
+                        This tax will create a few problems though. Lower-income households may not be able to afford a switch to electric cars, which are currently more expensive than gasoline cars, and which require infrastructure such as charging stations. For this portion of your population, how will you handle their need for transportation?			
+                        *choice		
+                          #Encourage non-motorized forms of transit, such as cycling or walking		
+                            Cycling and walking are known to be more beneficial for individual health, but they're also comparatively slow modes of transit.		
+                            For people who live in the suburbs, the distance between home and work may be too far.		
+                            While non-motorized transport is great for reducing oil transport, it needs to be supplemented by another, long-distance mode in order to be practical.		
+                            *finish		
+                          #Encourage car-sharing between neighbors in order to split the cost between households		
+                            Car-sharing or car-pooling can reduce costs for individuals, but they can be tricky to organize.		
+                            In order for this to work, you need to have groups of people who already live near each other AND work near each other.		
+                            To help workers figure out if anyone with a similar commute lives nearby, you launch an online program where workers can select their neighborhood and their destination, and will then see if there are any matches.		
+                            A program like this will depend upon individual comfort level and perceived safety, both of which are out of your control. Only time will tell if this program works.		
+                            *finish		
+                      #Invest in infrastructure which will benefit electric vehicles			
+                        Driving gasoline cars is already unpopular, due to the the high cost of fuel and the air pollution which cars create.			
+                        Electric vehicles do not have these problems, and you can capitalize on these differences by making electric driving an even more attractive experience.			
+                        Adding charging stations to currently existing gas stations will make it easier for electric-drivers to travel farther than the limits of the car's battery.			
+                        Converting one lane on major highways to "Electric Only" lanes will cut down on commute times for electric-drivers.			
+                        Which do you want to pursue?			
+                        *choice		
+                          #Add charging stations		
+                            While electric cars are well-suited for the stop-and-go traffic of urban and suburban life, electric batteries are less efficient on longer trips.		
+                            Mandating that gas stations add charging stations could expand the geographic range of electric cars, but may not be well-received in areas that do not already have a high electric car density.		
+                            Rather than passing regulation, you could incentivize managers to voluntarily install their own charging stations, either through tax credits or a subsidy.		
+                            *finish		
+                          #Create a lane just for electric cars		
+                            This could potentially be a politically viable proposal, due to its similarity to already-existing HOV (High-occupancy vehicle) lanes.		
+                            The expenses for this would be comparatively low, requiring only a few signs describing the rules of the lane, and possibly repainting the roads.		
+                            Altogether, it would be much less expensive than expanding the highway, which was the general trend back when oil was cheap.		
+                            A lane like this could encourage new car buyers to choose an electric car in order to take advantage of "electric-perks."		
+                            *finish		
+                  #Reduce the need to travel altogether		
+                    You're living in the digital age. Why not take advantage of 21st century technology and find alternate ways for people to work?				
+                    Programs such as Skype and Google Drive can enable people to work from home while still operating as part of a team.				
+                    How can you encourage employers to allow their employees to stay at home?				
+                    *choice			
+                      #Offer employers a tax credit if they don't require their employees to commute.			
+                        Businesses love any measures that can save them money.			
+                        Some industries, such as manufacturing or service-based occupations will always require employees to be physically present.			
+                        Other careers, such as finance, though, could potentially be accomplished nearly entirely in the virtual world. 			
+                        Employees who work from home can reduce their transportation expenses, and businesses may be able to save money, not only through tax credits, but possibly also through reducing the amount of physical office space which they require.			
+                        Not only could this stimulate the local economy and reduce fossil fuel consumption, but it could also help families who want to spend more time with raising their children.			
+                        *finish			
+                      #Pass a law that limits how many days per week employees can commute to work. On the other days of the week, they must work from home.			
+                        There are already federal regulations regarding minimum wage and child labor, so federal involvement in employment is not a novel concept.			
+                        That being said, you can likely expect critics of the law to accuse you of inhibiting capitalism and the free market.			
+                        Should you ask Congress to draft a law like this, it would radically change daily patterns of traffic and congestion.			
+                        On any given day, traffic would probably flow more smoothly since there would be fewer cars on the road. 			
+                        Imposing work-from-home regulations would force businesses to invest in telecommunication or reorganize their labor force.			
+                        Unless specifially exempted, service-based jobs would need to rethink how they work.			
+                        Additionally, working from home does not mean that employees won't make trips in their car throughout the day. There is no way to enforce employees to stay in one spot while they work.			
+                        While well-intentioned and certainly creative, this law may not be the best option for adapting to the oil crisis.			
+                        Return to the beginning and try another path.			
+                        *finish			
+          #Reduce the need to travel at all				
+            You're living in the digital age. Why not take advantage of 21st century technology and find alternate ways for people to work?				
+            Programs such as Skype and Google Drive can enable people to work from home while still operating as part of a team.				
+            How can you encourage employers to allow their employees to stay at home?				
+            *choice			
+              #Offer employers a tax credit if they don't require their employees to commute.			
+                Businesses love any measures that can save them money.			
+                Some industries, such as manufacturing or service-based occupations will always require employees to be physically present.			
+                Other careers, such as finance, though, could potentially be accomplished nearly entirely in the virtual world. 			
+                Employees who work from home can reduce their transportation expenses, and businesses may be able to save money, not only through tax credits, but possibly also through reducing the amount of physical office space which they require.			
+                Not only could this stimulate the local economy and reduce fossil fuel consumption, but it could also help families who want to spend more time with raising their children.			
+                *finish			
+              #Pass a law that limits how many days per week employees can commute to work. On the other days of the week, they must work from home.			
+                There are already federal regulations regarding minimum wage and child labor, so federal involvement in employment is not a novel concept.			
+                That being said, you can likely expect critics of the law to accuse you of inhibiting capitalism and the free market.			
+                Should you ask Congress to draft a law like this, it would radically change daily patterns of traffic and congestion.			
+                On any given day, traffic would probably flow more smoothly since there would be fewer cars on the road. 			
+                Imposing work-from-home regulations would force businesses to invest in telecommunication or reorganize their labor force.			
+                Unless specifially exempted, service-based jobs would need to rethink how they work.			
+                Additionally, working from home does not mean that employees won't make trips in their car throughout the day. There is no way to enforce employees to stay in one spot while they work.			
+                While well-intentioned and certainly creative, this law may not be the best option for adapting to the oil crisis.			
+                Return to the beginning and try another path.			
+                *finish			
+      #Ask the United Nations to step in.					
+        Under international pressure, the warring parties agree to attempt to draft a peace treaty.					
+        Seeing an opportunity for your country, you push for measures that would provide market stability for oil and other commodities.					
+        In exchange for humanitarian aid to rebuild their nation, they promise to bring increase production again and bring the price down to $100 per barrel.					
+        This is still almost double what you were paying before the civil war, but it's the best deal that you're going to get.					
+        Knowing that the other nation needs to increase its revenue in order to heal, you accept the deal.					
+        After the dust settles, one of your cabinet science advisors sends you a memo, warning you that, based on the amount of oil the nation claims to have left, they could viably only continue to supply your country for another 50 years.					
+        Alarmed, you ask your advisors what options you could pursue. This is what they respond with:					
+        *choice				
+          #Increase energy efficiency				
+            You launch a nationwide campaign promoting the use of compact fluoroscent lighting (CFL) bulbs in order to increase the use of energy-efficient bulbs.				
+            Additionally, you also promote the use of energy-efficient appliances and equipment such as air conditioners, refrigerators, washers etc. 				
+            Both these campaigns include significant subsidies on retail sales of these bulbs and appliances. 				
+            These measures increase the overall energy-efficiency of you country by only 30%. You realize harsher measures must be taken in order to achieve a higher overall energy-efficiency in the next 2 years. 				
+            *choice
+              #Call for an immediate ban on all incandescent lightbulbs and energy-inefficient ACs and refrigerators.			
+                The ban raises the overall energy efficiency of your country to 63%! 			
+                While there has been significant progress with energy-efficiency, your country still faces a rather immediate risk of facing an energy shortage with oil.			
+                Incorporating energy-efficiency measures through policy may not be enough in the long run. You also continue to be dependent on another nation for your energy. 			
+                Go back to the beginning, and try another solution!			
+                *finish			
+              #Focus on making the transportation sector more energy-efficient.			
+                In your country, transportation is the most oil-reliant sector of your economy. With oil at $200 per barrel at now, it's also your most expensive sector. You decide that this is going to be your priority for future policy initiatives.					
+                What part of the transportation sector are you going to look at first?					
+                *choice				
+                  #Private cars				
+                    In the urban and suburban areas of your country, most families own one or two cars. These cars spend 60% of their lifespan sitting in parking lots, not being used.				
+                    Why let the high prices of oil cripple your economy through the use of cars for every day transport? 				
+                    You decide to look into getting electric cars on the road.				
+                    *choice			
+                      #Add a registration tax to all gasoline cars			
+                        Increasing taxes is never a politically popular move, but they tend to be effective.			
+                        The additional expense will make some of the externalities of car-driving more tangible.			
+                        This tax will create a few problems though. Lower-income households may not be able to afford a switch to electric cars, which are currently more expensive than gasoline cars, and which require infrastructure such as charging stations. For this portion of your population, how will you handle their need for transportation?			
+                        *choice		
+                          #Encourage non-motorized forms of transit, such as cycling or walking		
+                            Cycling and walking are known to be more beneficial for individual health, but they're also comparatively slow modes of transit.		
+                            For people who live in the suburbs, the distance between home and work may be too far.		
+                            While non-motorized transport is great for reducing oil transport, it needs to be supplemented by another, long-distance mode in order to be practical.		
+                            *finish		
+                          #Encourage car-sharing between neighbors in order to split the cost between households		
+                            Car-sharing or car-pooling can reduce costs for individuals, but they can be tricky to organize.		
+                            In order for this to work, you need to have groups of people who already live near each other AND work near each other.		
+                            To help workers figure out if anyone with a similar commute lives nearby, you launch an online program where workers can select their neighborhood and their destination, and will then see if there are any matches.		
+                            A program like this will depend upon individual comfort level and perceived safety, both of which are out of your control. Only time will tell if this program works.		
+                            *finish		
+                      #Invest in infrastructure which will benefit electric vehicles			
+                        Driving gasoline cars is already unpopular, due to the the high cost of fuel and the air pollution which cars create.			
+                        Electric vehicles do not have these problems, and you can capitalize on these differences by making electric driving an even more attractive experience.			
+                        Adding charging stations to currently existing gas stations will make it easier for electric-drivers to travel farther than the limits of the car's battery.			
+                        Converting one lane on major highways to "Electric Only" lanes will cut down on commute times for electric-drivers.			
+                        Which do you want to pursue?			
+                        *choice		
+                          #Add charging stations		
+                            While electric cars are well-suited for the stop-and-go traffic of urban and suburban life, electric batteries are less efficient on longer trips.		
+                            Mandating that gas stations add charging stations could expand the geographic range of electric cars, but may not be well-received in areas that do not already have a high electric car density.		
+                            Rather than passing regulation, you could incentivize managers to voluntarily install their own charging stations, either through tax credits or a subsidy.		
+                            *finish		
+                          #Create a lane just for electric cars		
+                            This could potentially be a politically viable proposal, due to its similarity to already-existing HOV (High-occupancy vehicle) lanes.		
+                            The expenses for this would be comparatively low, requiring only a few signs describing the rules of the lane, and possibly repainting the roads.		
+                            Altogether, it would be much less expensive than expanding the highway, which was the general trend back when oil was cheap.		
+                            A lane like this could encourage new car buyers to choose an electric car in order to take advantage of "electric-perks."		
+                            *finish		
+                  #Trains				
+                    Train construction projects are expensive and require a great deal of investment capital.				
+                    However, their size and carrying capacity means that they're a far more efficient use of space than cars.  				
+                    The problem with trains, though, is that they require massive quantities of fuel. In order for the trains to pay for themselves, ridership will have to increase significantly. 				
+                    How will you promote the development of rail infrastructure?				
+                    *choice   
+                      #You can decrease expected operating expenses by changing how trains are powered.			
+                        Replacing diesel trains with electric ones will not automatically solve the problem of fossil fuel consumption. In your country, the majority of your electrcity production is still derived from fossil fuels. Switching to a renwable resource, such as biofuel, for electricity production could help to solve this problem, though.			
+                        While the cost of replacing diesel trains could easily jump into the millions of USD range, you will see savings over the long term due: an end to your dependence upon expensive fossil fuels, 20-30% fewer carbon monoxide emissions, and lower maintenance costs.			
+                        Construction projects also generally tend to be politically popular because of the number of jobs which they are expected to create.			
+                        Ironically though, you might face political opposition from environmentalists, especially ecologists.			
+                        Construction is often damaging to local ecosystems, and the completed train tracks could bisect habitats and frighten away animals.			
+                        Municipal governments will have to be conscious of where exactly they plan to put down tracks in order to avoid causing other environmental problems.			
+                        *finish			
+                      #Offer municipalities long-term, low-interest loans, and plan to pay them back using ridership revenues and by selling the land around the tracks for commercial development.			
+                        Railway construction is not a temporary solution to the transit problem. If you are building a railway, then you're intending to use it for several decades. This means that long-term and low-interest loans are financially feasible, because they can be repaid over a span of 40 or more years. 			
+                        Selling the land around the train tracks promotes Transportation-Oriented Development (TOD), which is a school of urban development which prioritizes access to public transit. Supporters of TOD believe that it is the next step in designing more sustainable cities.			
+                        Improving public transit will motivate the citizens of your country to forego their cars. If enough cars are left in the driveway, then it is possible that your country will decrease its overall yearly fossil fuel consumption. 			
+                        If you want to see more immediate results, though, you should consider either changing the energy source of trains, or address the problems posed by other modes of transport.			
+                        *choice		
+                          #Change the fuel source of trains		
+                            Replacing diesel trains with electric ones will not automatically solve the problem of fossil fuel consumption. In your country, the majority of your electrcity production is still derived from fossil fuels. Switching to a renwable resource, such as biofuel, for electricity production could help to solve this problem, though.			
+                            While the cost of replacing diesel trains could easily jump into the millions of USD range, you will see savings over the long term due: an end to your dependence upon expensive fossil fuels, 20-30% fewer carbon monoxide emissions, and lower maintenance costs.			
+                            Construction projects also generally tend to be politically popular because of the number of jobs which they are expected to create.			
+                            Ironically though, you might face political opposition from environmentalists, especially ecologists.			
+                            Construction is often damaging to local ecosystems, and the completed train tracks could bisect habitats and frighten away animals.			
+                            Municipal governments will have to be conscious of where exactly they plan to put down tracks in order to avoid causing other environmental problems.			
+                            *finish
+                  #Reduce the need to travel altogether
+                    You're living in the digital age. Why not take advantage of 21st century technology and find alternate ways for people to work?
+                    Programs such as Skype and Google Drive can enable people to work from home while still operating as part of a team.
+                    How can you encourage employers to allow their employees to stay at home?
+                    *choice
+                      #Offer employers a tax credit if they don't require their employees to commute.
+                        Businesses love any measures that can save them money.
+                        Some industries, such as manufacturing or service-based occupations will always require employees to be physically present.
+                        Other careers, such as finance, though, could potentially be accomplished nearly entirely in the virtual world.
+                        Employees who work from home can reduce their transportation expenses, and businesses may be able to save money, not only through tax credits, but possibly also through reducing the amount of physical office space which they require.
+                        Not only could this stimulate the local economy and reduce fossil fuel consumption, but it could also help families who want to spend more time with raising their children.
+                        *finish
+                      #Pass a law that limits how many days per week employees can commute to work. On the other days of the week, they must work from home.
+                        There are already federal regulations regarding minimum wage and child labor, so federal involvement in employment is not a novel concept.
+                        That being said, you can likely expect critics of the law to accuse you of inhibiting capitalism and the free market.
+                        Should you ask Congress to draft a law like this, it would radically change daily patterns of traffic and congestion.
+                        On any given day, traffic would probably flow more smoothly since there would be fewer cars on the road. 
+                        Imposing work-from-home regulations would force businesses to invest in telecommunication or reorganize their labor force.
+                        Unless specifially exempted, service-based jobs would need to rethink how they work.
+                        Additionally, working from home does not mean that employees won't make trips in their car throughout the day. There is no way to enforce employees to stay in one spot while they work.
+                        While well-intentioned and certainly creative, this law may not be the best option for adapting to the oil crisis.
+                        Return to the beginning and try another path.
+                        *finish		
+          #Increase energy conservation measures				
+            Energy conservation requires a change in consumer behavior in order to reduce the carbon footprint of the individual, and thus, the population as a whole. 				
+            Because your country might face a huge energy crisis in the next few decades, you must take stringent action in terms of energy conservation.				
+            You decide to launch a national campaign to promote awareness on energy consumption patterns.				
+            Promoting awareness on this behavior might not be enough, and you realize that you need to provide an incentive for citizens to follow suit.				
+            What incentive do you create?				
+            *choice			
+              #Provide tax credits on the purchase and installation of retrofits for schools, institutions, and corporations.			
+                While this is certainly a start, using only tax credits in creating an incentive for retrofitting hasn't proven to be enough in reducing your country's footprint.			
+                This could be a result of the small discount rate applied by the tax reform, or the lack of awareness about the effects of price reduction.			
+                More stringent policy measures along with financial incentives might be necessary in bringing about effective change. Perhaps, even looking into renewables.			
+                Go back to the beginning, and try another solution!			
+                *finish			
+              #Subsidize brands that specialize in energy-efficient products and retrofitting of buildings.			
+                Ultimately, prices that reflect the costs and benefits of consumption and production provide the right incentives.			
+                This also seems to be a powerful tool for changing consumer behavior patterns.			
+                These particular brands benefit from increased sales, while the citizens benefit from lowered prices of more efficient products. 			
+                Overall, the nation will benefit from a lower energy footprint. You are, however, still an oil-dependent nation. Thus, this many not be an effective long-term solution. 			
+                Go back to the beginning, and try another solution!			
+                *finish			
+          #Increase the share of renewables in your energy mix				
+            Currently, your country does not have any renewable energy infrastructure to speak of. The best way to encourage investment in renewable infrastructure is to set up a feed-in tariff (FIT) program				
+            A feed-in-tariff is a policy instrument which encourages investment in renewable energy technologies. With a feed-in-tariff, long-term purchases agreements are made for the sale of RE electricity. 				
+            In other words, the goverment would continuously purchase RE for 30 years, which would bring down the price of that energy.				
+            As a tropical country, relatively close to the Equator, your country receives an abundance of sunlight all year round.				
+            Solar energy seems like the most practical option for you to pursue.				
+            Which kind of solar should you pursue?				
+            Photovoltaic, or PV, uses direct sunlight to directly convert light into electricity.				
+            Concentrated solar power, or CSP, uses mirrors to redirect sunlight onto a small area creating a battery of sorts. The energy stored here can be converted to electricity now or later.				
+            *choice			
+              #Photovoltaic			
+                PVs are the more common type of solar power. Solar cells can be installed on the roofs of businesses and homes without impacting the underlying structure.			
+                However, the availability of solar energy doesn't match up with demand for electricity.			
+                The most sunlight is available during the middle of the day, but consumption of electricty usually peaks in the evening.			
+                How are you going to address this problem of the mismatch between supply and demand?			
+                *choice		
+                  #Add another source of energy to your energy supply		
+                    You decide to add biofuels to your energy mix. Biofuels are fuels that are derived from organic matter.		
+                    The biofuel you choose could significantly change the land use.		
+                    *choice	
+                      #Food crops	
+                        Food crops grow well in your country's warm weather and alluvial soils. 	
+                        However, in order to meet the energy demand, a huge number of crops need to be grown on hundreds of acres of land.	
+                        This results in mass deforestation. While you are able to grow your crops, you have have converted a lot of forest land to crop land, which has significant environmental impacts.	
+                        You have failed to reduce carbon emissions in your country with the use of this biofuel.	
+                        Go back to the beginning and try to find another option.	
+                        *finish	
+                      #Biomass	
+                        A huge number of trees must be cut in order to meet the energy demand in your country. 	
+                        Not only does this result in mass deforestation, but carbon dioxide and methane are released due to incomplete combustion of the wood. 	
+                        You also run the risk of exhausting your biomass supply if the wood fuel is used at a rate that exceeds its re-growth.	
+                        Go back to the beginning and try to find another option.	
+                        *finish	
+                      #Algae	
+                        There is a growing amount of research suggesting that algae could be 10 to a 100 times more productive than traditional biofuels.	
+                        Algae has the potential to become the most desired biofuel and an important part of your energy mix in the future.	
+                        You invest in the technology and equipment in order to make this a reality in your country. 	
+                        There is still progress to be made, but you are well on your way to becoming a carbon neutral, energy-independent nation!	
+                        *finish	
+                  #Change consumer behavior		
+                    Energy conservation requires a change in consumer behavior in order to reduce the carbon footprint of the individual, and thus, the population as a whole. 				
+                    Because your country might face a huge energy crisis in the next few decades, you must take stringent action in terms of energy conservation.				
+                    You decide to launch a national campaign to promote awareness on energy consumption patterns.				
+                    Promoting awareness on this behavior might not be enough, and you realize that you need to provide an incentive for citizens to follow suit.				
+                    What incentive do you create?				
+                    *choice			
+                      #Provide tax credits on the purchase and installation of retrofits for schools, institutions, and corporations.			
+                        While this is certainly a start, using only tax credits in creating an incentive for retrofitting hasn't proven to be enough in reducing your country's footprint.			
+                        This could be a result of the small discount rate applied by the tax reform, or the lack of awareness about the effects of price reduction.			
+                        More stringent policy measures along with financial incentives might be necessary in bringing about effective change. Perhaps, even looking into renewables.			
+                        Go back to the beginning, and try another solution!			
+                        *finish			
+                      #Subsidize brands that specialize in energy-efficient products and retrofitting of buildings.			
+                        Ultimately, prices that reflect the costs and benefits of consumption and production provide the right incentives.			
+                        This also seems to be a powerful tool for changing consumer behavior patterns.			
+                        These particular brands benefit from increased sales, while the citizens benefit from lowered prices of more efficient products. 			
+                        Overall, the nation will benefit from a lower energy footprint. You are, however, still an oil-dependent nation. Thus, this many not be an effective long-term solution. 			
+                        Go back to the beginning, and try another solution!			
+                        *finish		
+              #Concentrated solar power			
+                The main barrier to CSP is project financing. CSP also requires more acreage in order to accomadate storage structures. 			
+                However, the projects you subsidize prove to be extremely successful.			
+                One of the projects you subsidize is a 200-watt solar generation plant with 10 hours of full load storage.			
+                This enables on-demand energy production in a 24-hour period, and powers almost half your nation's homes. 			
+                The energy storage component also removes the need for an energy backup. This is a major advantage, and a huge incentive to divesting from oil altogether.			
+                Congratulations on finding an energy alternative to oil! You are now an energy-independent nation, and on your way to becoming carbon neutral as well.			
+                *finish			
+  #Retrofit the national power plants to run off of domestic natural gas, instead of imported oil. Why pay foreigners for fuel when you can do it yourself?						
+    Converting the entire nation's energy production to natural gas would cost several billions of dollars in initial investment.						
+    This investment will help to jumpstart your economy by creating hundreds of new jobs in construction and at the power plants.						
+    However, in order to pay for this investment, you need to heavily tax your citizens.						
+    The new tax sparks protests and demonstrations in the streets. How do you respond?						
+    *choice					
+      #Reconsider running the entire nation's energy production on natural gas.					
+        Seeing a clear resistance movement begin to take form amongst the citizens, you begin to look into other options alongside natural gas to help with the nation's energy production.					
+        This brings down the heavy taxes that would otherwise have been imposed on the citizens. 					
+        A feed-in-tariff is a policy instrument which encourages investment in renewable energy technologies. With a feed-in-tariff, long-term purchases agreements are made for the sale of RE electricity.					
+        In other words, the government would continuously purchase RE for 30 years, which would bring down the price of that energy.					
+        A number of solar energy startups in your country have also begun to take shape following the energy debacle. 					
+        What is your next move?					
+        *choice				
+          #Provide a feed-in-tariff to these companies supporting photovoltaic applications.				
+            The feed-in-tariff significantly increases the installation of solar panels across the country. 				
+            Loans made by many of your country's commercial banks have also played a role in meeting the financial needs of these technologies. 				
+            Currently, Solar PV and natural gas both make up your energy mix, and both energy sources are able to meet the current energy demands of your country.				
+            While you are not a carbon neutral nation, you are energy-independent, and have made significant progress in becoming so!				
+            *finish				
+          #Wildcard! - Beware, this option could help or hurt your scenario ;)				
+            A massive gas leak vents out millions of pounds of natural gas from your capital's natural gas facility.				
+            The leak releases a colossal amount of methane into the atmosphere, implying diastrous consequences for the climate scenario. 				
+            A number of citizens, environmental activists and health organizations are rattled by this event. Movements break out on banning the use of natural gas entirely. 				
+            You have the option to comply with their demands, but this would mean replacing natural gas with another energy source. 				
+            The only other RE source that could meet the energy demand along with solar PV is wave energy.				
+            What do you do?				
+            *choice			
+              #Simultaneously subsidize solar startups and invest in wave energy technologies.			
+                Long-term, your nation will benefit tremendously from this solution. 			
+                In addition to becoming an energy-independent nation, you have invested in carbon neutral emissions and have thus significantly reduced your nation's carbon footprint.			
+                However, this option proves to be a very expensive one as well. It will also take a while before both these energy sources can be successfully integrated into your energy mix. 			
+                Until this happens, you will have to continue to use natural gas in your energy mix for the next few years alongside solar PV, which will take less time to set up. 			
+                For now, you are heading in the right direction!			
+                *finish			
+              #Continue using natural gas in the energy mix.			
+                Much to the dissatisfaction of your citizens, you decide to continue to use natural gas. 			
+                Protests break out on the streets. Communities have now taken it into their own hands to raise money for different solar projects. 			
+                A number of informational campaigns based on the harmful effects of natural gas leaks are being launched by your citizens.			
+                Ultimately, it looks like your citizens have taken it into their own hands to bring about an energy transition away from natural gas.			
+                Overall, you are still an energy-independent nation. However, there is a clear resistance that has grown towards the government from a significant portion of the society. 			
+                It would be interesting to see how things pan out in terms of your energy mix in the future. 			
+                *finish			
+      #Agree to meet with protestor representatives.
+        You and your advisors listen to the concerns of the protestors. You know that the taxes are high, but the money needs to come from somewhere.
+        What will you do?
+        *choice				
+          #Give in to their demands and lower taxes.				
+            You go back to buying oil, but now, in an attempt to reduce expenses, you create a policy aimed at reducing consumption and increasing energy efficiency.				
+            Like the United States, you are not an energy independent nation, but neither are you a failed state. You are working towards change of some kind.				
+            Click the restart button and explore other possible sequences of events!				
+            *finish				
+          #Wildcard! - Beware, this option could help or hurt your scenario ;)				
+            A leading private offshore wind company would like to set up shop in your country! 				
+            Seeing the potential for wind energy production along your country's coastlines, the company is willing to help your country change its energy mix.				
+            A feed-in-tariff is a policy instrument which encourages investment in renewable energy technologies. With a feed-in-tariff, long-term purchases agreements are made for the sale of RE electricity.				
+            In other words, the government would continuously purchase RE for 30 years, which would bring down the price of that energy.				
+            The risks associated with entrusting one company with your energy production are inherent.				
+            However, you would like your citizens to make this transition to renewable energy. What do you do?				
+            *choice			
+              #Set up a feed-in-tariff policy with the company in order to provide cheap, affordable energy to the citizens.			
+                Your citizens now receive their electricity from wind energy. However, there are some problems.			
+                Energy production from just one company doesn't seem to be enough to meet the energy demands of the entire nation.			
+                Because of the intermittency and variability of the wind, the power plants must be kept running at full capacity, which is not feasible. You might need to find another energy source alongside wind.			
+                In the meantime, your neighboring country offers to export its hydropower to your country at half the price that oil is now being exported. 			
+                Importing this power will still be significantly expensive for the energy demand that you need to meet in your country.			
+                What do you do?			
+                *choice		
+                  #Import hydropower energy from the neighboring country anyway. 		
+                    For now, this seems to be a reasonable option, given the current exorbitant prices of oil.		
+                    This is not a long-term solution, as it is expensive and still makes you dependent on another nation for your energy demand.		
+                    However, you are working towards becoming a carbon-neutral country! Looking into other RE sources within your own country to meet the growing energy demand would be advisable.		
+                    *finish		
+                  #Look to your natural gas reserves of which there are plenty.		
+                    You decide to launch a national campaign to make your citizens aware of the fact that energy supply is low compared to demand.		
+                    The campaign talks about the need to retrofit some of the national power plants to run off of natural gas, which tax the citizens half the amount as previously proposed.		
+                    The citizens agree to paying these taxes, as the energy situation has become severe with an increasing number of blackouts in many regions. 		
+                    You have successfully become an energy independent nation! However, much is still to be done in lowering the carbon emissions from some of your sectors, and this may be difficult to do with natural gas in your energy mix.		
+                    *finish		
+              #Look inwards at utility companies, businesses and households in your own country. You wouldn't want a foreign private company monopolizing your energy sector.			
+                You pass a law that requires electricity distribution companies to develop and apply smart grid and energy storage technologies.			
+                This would essentially enable the integration of RE into the electricity grids, and set up penalties for utilities that refuse to purchase and accomadate RE.			
+                You also pass a law that details requirements for energy conservation work in industrial facilities, commercial and residential buldings, the transportation sector, and public institutions.			
+                Thus, you are making strides towards changing the energy mix in your country, as well as becoming energy independent in this regard!			
+                *finish			
+      #Ignore them. They don't understand the full complexity of the situation.					
+        Some of the protestors have set up personal energy production systems, primarily through homemade solar panels and small-scale wind turbines.					
+        These individuals are now illegally connected to the grid.					
+        *choice				
+          #Shut them down				
+            You pass a Bill banning additional set up of personal energy production systems, much to the dissatisfaction of the protestors. 				
+            Demonstrations continue as people refuse to contribute to the initial investment for retrofitting the nation's power plants.				
+            Some protestors continue to use their personal energy production systems.				
+            However, a discussion now arises on whether the country's best bet would be to continue buying oil, which, for now, seems cheaper than investing billions in retrofitting.				
+            With the severity of the protests increasing, you are ultimately pressured into buying the oil.				
+            Go back to the beginning and try to find another option.				
+            *finish				
+          #Leave them be. This could be interesting...				
+            The setting up of personal energy production systems continues, and gains momentum among some homeowners and private companies. 				
+            Meanwhile, the resistance movement grows towards heavy taxation of the citizens for retrofitting the nation's power plants. 				
+            Private investors have decided to step forward to fund solar energy startups. Potential is realized in these projects and in RE sources for the future.				
+            Many communities now run on a decentralized system, thereby increasing local value.				
+            Your hands are essentially tied without the support of your citizens, so you should probably look into alternatives if you plan to boost your economy.				
+            Go back to the beginning and try to find another option.				
+            *finish				
